@@ -57,9 +57,13 @@ Essa parte do teste você pode fazer da maneira que encontrar mais fácil e que 
 # Como entregar?
 
 **Passo 1.** Executar o teste.
+
 **Passo 2.** Testar e validar.
+
 **Passo 3.** Enivar para o git.
+
 **Passo 4.** Postar no README do git, fotos da requisição que você fez na API (pelo Postman ou outro app).
+
 **Passo 5.** Enviar o link do projeto do git para o [perfil do Soon Sam no Linkedin por mensagem](https://www.linkedin.com/in/soon-santos-7a9170138/)
 
 Happy Coding! 💻
