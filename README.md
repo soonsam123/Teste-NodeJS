@@ -46,7 +46,7 @@ Sendo que, o endpoint de listagem deve ter os filtro de `descricao, titulo, id_t
 
 Até agora foi mais fácil, nessa última atividade vamos passar algo um pouquinho mais desafiador.
 
-Agora você pode se basear no calendário do Google para fazer essa parte!
+Agora você pode se basear no calendário do Google para fazer essa parte! 📆
 
 Você deve encontrar uma solução para o seguinte caso: Um operador deseja postar um serviço para ser executado toda Segunda e Quinta, até o final desse ano (ou até uma data limite).
 
