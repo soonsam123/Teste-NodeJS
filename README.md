@@ -13,14 +13,16 @@ Você deve utilizar para fazer a API:
 - NodeJS/Express;
 - Banco de dados MySQL;
 - Javascript ou Typescript (o de sua preferência);
-- O restante que precisa será de sua preferência.
+- O restante que precisar será de sua preferência.
 
 # Banco de dados
 
 O seu banco de dados deve ter apenas 3 tabelas.
 
 A tabela de `servicos` irá ter colunas como: id, titulo serviço, descrição do serviço, data para o serviço ser executado (Ex: O serviço será realizado no dia 10 de maio de 2022), id do tipo de serviço, id do usuário que está postando o serviço.
+
 A tabela de `tipo_servicos` irá ter colunas como: id, tipo do serviço. E valores como: `REPOSITOR, PESQUISA DE PRECOS, CAIXA etc...`
+
 A tabela de `usuarios` irá ter colunas como: id, nome, login, senha.
 
 A tabela de serviços será a principal, e nela teremos as chaves estrangeiras do tipo de serviço e do usuário.
